@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		ED0BB0162A02C04400E3C5DD /* ForeEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0BB0152A02C04400E3C5DD /* ForeEach.swift */; };
+		ED23F5AA2A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */; };
 		ED2CDCAB2A2F3C0000924446 /* AppStorageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2CDCAA2A2F3C0000924446 /* AppStorageBootCamp.swift */; };
 		ED2E26362A38C0210020BD79 /* ListSwipeActionsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2E26352A38C0210020BD79 /* ListSwipeActionsBootCamp.swift */; };
 		ED2E26382A38C39A0020BD79 /* BadgesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2E26372A38C39A0020BD79 /* BadgesBootCamp.swift */; };
@@ -83,6 +84,7 @@
 
 /* Begin PBXFileReference section */
 		ED0BB0152A02C04400E3C5DD /* ForeEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeEach.swift; sourceTree = "<group>"; };
+		ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
 		ED2CDCAA2A2F3C0000924446 /* AppStorageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootCamp.swift; sourceTree = "<group>"; };
 		ED2E26352A38C0210020BD79 /* ListSwipeActionsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBootCamp.swift; sourceTree = "<group>"; };
 		ED2E26372A38C39A0020BD79 /* BadgesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootCamp.swift; sourceTree = "<group>"; };
@@ -264,6 +266,7 @@
 				EDE365352A47421800D97837 /* RotationGestureBootCamp.swift */,
 				ED3893102A4C5B0500F6ED07 /* DragGestureBootCamp.swift */,
 				EDB274862A4C618800CFB249 /* DragGestureBootCamp2.swift */,
+				ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */,
 				ED61E3A62A30A4FB005ACFC2 /* OnboardingViews */,
 				ED71156829F142DC00F93A27 /* Assets.xcassets */,
 				ED71156A29F142DC00F93A27 /* Preview Content */,
@@ -358,6 +361,7 @@
 				ED7680422A07DB2C000432FD /* ButtonsBootcamp.swift in Sources */,
 				ED6BEB702A126B070013249C /* TransitionBootcamp.swift in Sources */,
 				ED934B102A4730FC009647B5 /* LongPressGestureBootCamp.swift in Sources */,
+				ED23F5AA2A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift in Sources */,
 				EDDABE5E2A025C3500F0FC83 /* PaddingBootcamp.swift in Sources */,
 				ED61E3AA2A30A7A3005ACFC2 /* OnBoardingView.swift in Sources */,
 				EDFA87242A0947E200CC245C /* StateBootcamp.swift in Sources */,
