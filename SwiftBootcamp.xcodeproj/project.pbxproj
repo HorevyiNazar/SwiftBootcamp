@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED018DF02A543BE40070A487 /* MaskBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED018DEF2A543BE40070A487 /* MaskBootCamp.swift */; };
 		ED0BB0162A02C04400E3C5DD /* ForeEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0BB0152A02C04400E3C5DD /* ForeEach.swift */; };
 		ED23F5AA2A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */; };
 		ED2CDCAB2A2F3C0000924446 /* AppStorageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2CDCAA2A2F3C0000924446 /* AppStorageBootCamp.swift */; };
@@ -85,6 +86,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ED018DEF2A543BE40070A487 /* MaskBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootCamp.swift; sourceTree = "<group>"; };
 		ED0BB0152A02C04400E3C5DD /* ForeEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeEach.swift; sourceTree = "<group>"; };
 		ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
 		ED2CDCAA2A2F3C0000924446 /* AppStorageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootCamp.swift; sourceTree = "<group>"; };
@@ -273,6 +275,7 @@
 				ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */,
 				ED4510E12A4F63E600708E53 /* GeometryReaderBootCamp.swift */,
 				ED3787192A509DF500A9BD82 /* MultipleSheetsBootCamp.swift */,
+				ED018DEF2A543BE40070A487 /* MaskBootCamp.swift */,
 				ED61E3A62A30A4FB005ACFC2 /* OnboardingViews */,
 				ED71156829F142DC00F93A27 /* Assets.xcassets */,
 				ED71156A29F142DC00F93A27 /* Preview Content */,
@@ -410,6 +413,7 @@
 				ED78F6FC2A1A4677005676C6 /* ContentMenuBootCamp.swift in Sources */,
 				EDEA04B42A2230A700B13EC5 /* IfLetGuardBootCamp.swift in Sources */,
 				ED3893112A4C5B0500F6ED07 /* DragGestureBootCamp.swift in Sources */,
+				ED018DF02A543BE40070A487 /* MaskBootCamp.swift in Sources */,
 				ED71156729F142DB00F93A27 /* ContentView.swift in Sources */,
 				EDB274872A4C618800CFB249 /* DragGestureBootCamp2.swift in Sources */,
 				ED0BB0162A02C04400E3C5DD /* ForeEach.swift in Sources */,
