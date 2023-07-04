@@ -11,6 +11,7 @@
 		ED018DF22A5440670070A487 /* SoundsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED018DF12A5440670070A487 /* SoundsBootCamp.swift */; };
 		ED018DF62A5442D60070A487 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ED018DF42A5442D60070A487 /* tada.mp3 */; };
 		ED018DF72A5442D60070A487 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ED018DF52A5442D60070A487 /* badum.mp3 */; };
+		ED018DF92A5444A00070A487 /* HapticsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED018DF82A5444A00070A487 /* HapticsBootCamp.swift */; };
 		ED0BB0162A02C04400E3C5DD /* ForeEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0BB0152A02C04400E3C5DD /* ForeEach.swift */; };
 		ED23F5AA2A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */; };
 		ED2CDCAB2A2F3C0000924446 /* AppStorageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2CDCAA2A2F3C0000924446 /* AppStorageBootCamp.swift */; };
@@ -93,6 +94,7 @@
 		ED018DF12A5440670070A487 /* SoundsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootCamp.swift; sourceTree = "<group>"; };
 		ED018DF42A5442D60070A487 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		ED018DF52A5442D60070A487 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
+		ED018DF82A5444A00070A487 /* HapticsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootCamp.swift; sourceTree = "<group>"; };
 		ED0BB0152A02C04400E3C5DD /* ForeEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeEach.swift; sourceTree = "<group>"; };
 		ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
 		ED2CDCAA2A2F3C0000924446 /* AppStorageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootCamp.swift; sourceTree = "<group>"; };
@@ -292,6 +294,7 @@
 				ED3787192A509DF500A9BD82 /* MultipleSheetsBootCamp.swift */,
 				ED018DEF2A543BE40070A487 /* MaskBootCamp.swift */,
 				ED018DF12A5440670070A487 /* SoundsBootCamp.swift */,
+				ED018DF82A5444A00070A487 /* HapticsBootCamp.swift */,
 				ED018DF32A5442AF0070A487 /* Sounds */,
 				ED61E3A62A30A4FB005ACFC2 /* OnboardingViews */,
 				ED71156829F142DC00F93A27 /* Assets.xcassets */,
@@ -429,6 +432,7 @@
 				ED9731242A1B8C1700DC5053 /* TextEditorBootCamp.swift in Sources */,
 				EDFA87282A094D9A00CC245C /* ExtractSubViewsBootcamp.swift in Sources */,
 				EDE178D82A406706004C13D4 /* AnimationUpdatedBootCamp.swift in Sources */,
+				ED018DF92A5444A00070A487 /* HapticsBootCamp.swift in Sources */,
 				EDE06F192A24F7DD00AEAD38 /* TapGestureBootCamp.swift in Sources */,
 				ED78F6FC2A1A4677005676C6 /* ContentMenuBootCamp.swift in Sources */,
 				EDEA04B42A2230A700B13EC5 /* IfLetGuardBootCamp.swift in Sources */,
@@ -583,6 +587,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftBootcamp/Preview Content\"";
+				DEVELOPMENT_TEAM = HU9APFQH4U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -612,6 +617,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftBootcamp/Preview Content\"";
+				DEVELOPMENT_TEAM = HU9APFQH4U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
