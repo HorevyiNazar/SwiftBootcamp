@@ -14,6 +14,7 @@
 		ED018DF92A5444A00070A487 /* HapticsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED018DF82A5444A00070A487 /* HapticsBootCamp.swift */; };
 		ED0BB0162A02C04400E3C5DD /* ForeEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0BB0152A02C04400E3C5DD /* ForeEach.swift */; };
 		ED23F5AA2A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */; };
+		ED2C5EBB2A5841D500DF18DC /* LocalNotificationBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2C5EBA2A5841D500DF18DC /* LocalNotificationBootCamp.swift */; };
 		ED2CDCAB2A2F3C0000924446 /* AppStorageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2CDCAA2A2F3C0000924446 /* AppStorageBootCamp.swift */; };
 		ED2E26362A38C0210020BD79 /* ListSwipeActionsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2E26352A38C0210020BD79 /* ListSwipeActionsBootCamp.swift */; };
 		ED2E26382A38C39A0020BD79 /* BadgesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2E26372A38C39A0020BD79 /* BadgesBootCamp.swift */; };
@@ -97,6 +98,7 @@
 		ED018DF82A5444A00070A487 /* HapticsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootCamp.swift; sourceTree = "<group>"; };
 		ED0BB0152A02C04400E3C5DD /* ForeEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeEach.swift; sourceTree = "<group>"; };
 		ED23F5A92A4F448F00FE2961 /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
+		ED2C5EBA2A5841D500DF18DC /* LocalNotificationBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootCamp.swift; sourceTree = "<group>"; };
 		ED2CDCAA2A2F3C0000924446 /* AppStorageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootCamp.swift; sourceTree = "<group>"; };
 		ED2E26352A38C0210020BD79 /* ListSwipeActionsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBootCamp.swift; sourceTree = "<group>"; };
 		ED2E26372A38C39A0020BD79 /* BadgesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootCamp.swift; sourceTree = "<group>"; };
@@ -295,6 +297,7 @@
 				ED018DEF2A543BE40070A487 /* MaskBootCamp.swift */,
 				ED018DF12A5440670070A487 /* SoundsBootCamp.swift */,
 				ED018DF82A5444A00070A487 /* HapticsBootCamp.swift */,
+				ED2C5EBA2A5841D500DF18DC /* LocalNotificationBootCamp.swift */,
 				ED018DF32A5442AF0070A487 /* Sounds */,
 				ED61E3A62A30A4FB005ACFC2 /* OnboardingViews */,
 				ED71156829F142DC00F93A27 /* Assets.xcassets */,
@@ -423,6 +426,7 @@
 				EDE365342A473BC900D97837 /* MagnificationGestureBootCamp.swift in Sources */,
 				ED2FF7012A3B209800FD99A0 /* NavigationStackBootCamp.swift in Sources */,
 				EDAC47A22A12905A009E3C12 /* PopOverBootcamp.swift in Sources */,
+				ED2C5EBB2A5841D500DF18DC /* LocalNotificationBootCamp.swift in Sources */,
 				EDC32E2B2A1E09D100636BFC /* PickerBootCamp.swift in Sources */,
 				ED34B7D02A1F852D00630034 /* StepperBootCamp.swift in Sources */,
 				ED37871A2A509DF500A9BD82 /* MultipleSheetsBootCamp.swift in Sources */,
