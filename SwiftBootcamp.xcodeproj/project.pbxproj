@@ -71,6 +71,7 @@
 		EDD78ED72A2BB46C000F98F3 /* EnviromentObjectBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD78ED62A2BB46C000F98F3 /* EnviromentObjectBootCamp.swift */; };
 		EDDABE5E2A025C3500F0FC83 /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDDABE5D2A025C3500F0FC83 /* PaddingBootcamp.swift */; };
 		EDDABE602A025F5E00F0FC83 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDDABE5F2A025F5E00F0FC83 /* SpacerBootcamp.swift */; };
+		EDDEB7D22A5EBE96008579F2 /* HashableBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDDEB7D12A5EBE96008579F2 /* HashableBootCamp.swift */; };
 		EDE06F192A24F7DD00AEAD38 /* TapGestureBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE06F182A24F7DD00AEAD38 /* TapGestureBootCamp.swift */; };
 		EDE178D42A405FEC004C13D4 /* ResizableSheetsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE178D32A405FEC004C13D4 /* ResizableSheetsBootCamp.swift */; };
 		EDE178D62A4063D4004C13D4 /* SafeAreaInsectsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE178D52A4063D4004C13D4 /* SafeAreaInsectsBootCamp.swift */; };
@@ -156,6 +157,7 @@
 		EDD78ED62A2BB46C000F98F3 /* EnviromentObjectBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnviromentObjectBootCamp.swift; sourceTree = "<group>"; };
 		EDDABE5D2A025C3500F0FC83 /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
 		EDDABE5F2A025F5E00F0FC83 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
+		EDDEB7D12A5EBE96008579F2 /* HashableBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootCamp.swift; sourceTree = "<group>"; };
 		EDE06F182A24F7DD00AEAD38 /* TapGestureBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootCamp.swift; sourceTree = "<group>"; };
 		EDE178D32A405FEC004C13D4 /* ResizableSheetsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetsBootCamp.swift; sourceTree = "<group>"; };
 		EDE178D52A4063D4004C13D4 /* SafeAreaInsectsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsectsBootCamp.swift; sourceTree = "<group>"; };
@@ -298,6 +300,7 @@
 				ED018DF12A5440670070A487 /* SoundsBootCamp.swift */,
 				ED018DF82A5444A00070A487 /* HapticsBootCamp.swift */,
 				ED2C5EBA2A5841D500DF18DC /* LocalNotificationBootCamp.swift */,
+				EDDEB7D12A5EBE96008579F2 /* HashableBootCamp.swift */,
 				ED018DF32A5442AF0070A487 /* Sounds */,
 				ED61E3A62A30A4FB005ACFC2 /* OnboardingViews */,
 				ED71156829F142DC00F93A27 /* Assets.xcassets */,
@@ -416,6 +419,7 @@
 				ED9933B72A0A825B00A4487D /* BindingBootcamp.swift in Sources */,
 				ED83D9602A3B37C300F0E33C /* ToolbarBootCamp.swift in Sources */,
 				ED4AFBC92A28CB840010F8F1 /* ViewModelBootCamp.swift in Sources */,
+				EDDEB7D22A5EBE96008579F2 /* HashableBootCamp.swift in Sources */,
 				ED9731222A1B873E00DC5053 /* TextFieldBootCamp.swift in Sources */,
 				ED48BDE02A20E9070000D3D8 /* DocumentationBootCamp.swift in Sources */,
 				EDFA337E2A321C5800A839CA /* TextSelectionBootCamp.swift in Sources */,
