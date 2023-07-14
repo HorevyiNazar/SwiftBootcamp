@@ -44,6 +44,8 @@
 		ED7A3EF92A391621005204C8 /* FocusStateBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED7A3EF82A391621005204C8 /* FocusStateBootCamp.swift */; };
 		ED7A3EFD2A391B4E005204C8 /* SubmitTextFieldBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED7A3EFC2A391B4E005204C8 /* SubmitTextFieldBootCamp.swift */; };
 		ED83D9602A3B37C300F0E33C /* ToolbarBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED83D95F2A3B37C300F0E33C /* ToolbarBootCamp.swift */; };
+		ED8E31DA2A61A47600F70EE9 /* CoreDataBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8E31D92A61A47600F70EE9 /* CoreDataBootCamp.swift */; };
+		ED8E31DD2A61A84000F70EE9 /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ED8E31DB2A61A84000F70EE9 /* FruitsContainer.xcdatamodeld */; };
 		ED9113082A20C82C00CD66A4 /* TabViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED9113072A20C82C00CD66A4 /* TabViewBootCamp.swift */; };
 		ED921FB729F66D0C00263A5B /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED921FB629F66D0C00263A5B /* ShapesBootcamp.swift */; };
 		ED921FB929F66FF600263A5B /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED921FB829F66FF600263A5B /* ColorsBootcamp.swift */; };
@@ -131,6 +133,8 @@
 		ED7A3EF82A391621005204C8 /* FocusStateBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootCamp.swift; sourceTree = "<group>"; };
 		ED7A3EFC2A391B4E005204C8 /* SubmitTextFieldBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldBootCamp.swift; sourceTree = "<group>"; };
 		ED83D95F2A3B37C300F0E33C /* ToolbarBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarBootCamp.swift; sourceTree = "<group>"; };
+		ED8E31D92A61A47600F70EE9 /* CoreDataBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootCamp.swift; sourceTree = "<group>"; };
+		ED8E31DC2A61A84000F70EE9 /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		ED9113072A20C82C00CD66A4 /* TabViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootCamp.swift; sourceTree = "<group>"; };
 		ED921FB629F66D0C00263A5B /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		ED921FB829F66FF600263A5B /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
@@ -304,6 +308,7 @@
 				ED2C5EBA2A5841D500DF18DC /* LocalNotificationBootCamp.swift */,
 				EDDEB7D12A5EBE96008579F2 /* HashableBootCamp.swift */,
 				ED2089662A5EC79C0058889E /* ArraysBootCamp.swift */,
+				ED8E31DE2A61A86400F70EE9 /* CoreData */,
 				ED018DF32A5442AF0070A487 /* Sounds */,
 				ED61E3A62A30A4FB005ACFC2 /* OnboardingViews */,
 				ED71156829F142DC00F93A27 /* Assets.xcassets */,
@@ -318,6 +323,15 @@
 				ED71156B29F142DC00F93A27 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		ED8E31DE2A61A86400F70EE9 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				ED8E31D92A61A47600F70EE9 /* CoreDataBootCamp.swift */,
+				ED8E31DB2A61A84000F70EE9 /* FruitsContainer.xcdatamodeld */,
+			);
+			path = CoreData;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -455,6 +469,7 @@
 				ED0BB0162A02C04400E3C5DD /* ForeEach.swift in Sources */,
 				EDFA33802A321D2E00A839CA /* ButtonStylesBootCamp.swift in Sources */,
 				ED2E26382A38C39A0020BD79 /* BadgesBootCamp.swift in Sources */,
+				ED8E31DD2A61A84000F70EE9 /* FruitsContainer.xcdatamodeld in Sources */,
 				EDE178D42A405FEC004C13D4 /* ResizableSheetsBootCamp.swift in Sources */,
 				ED61E3AC2A30CDB7005ACFC2 /* ProfileView.swift in Sources */,
 				ED34B7D22A1F88BB00630034 /* SliderBootCamp.swift in Sources */,
@@ -465,6 +480,7 @@
 				ED6BEB722A12707D0013249C /* SheetsBootCamp.swift in Sources */,
 				EDA4E9EC2A28A7D700D40C50 /* ModelBuutCamp.swift in Sources */,
 				ED9512622A0FC507006A7ABC /* AnimationsBootCamp.swift in Sources */,
+				ED8E31DA2A61A47600F70EE9 /* CoreDataBootCamp.swift in Sources */,
 				EDA3941A29F19F2000EACDA5 /* TextBootcamp.swift in Sources */,
 				ED4510E22A4F63E600708E53 /* GeometryReaderBootCamp.swift in Sources */,
 				EDFA87262A094ACA00CC245C /* ExtractedFunctionsBootcamp.swift in Sources */,
@@ -673,6 +689,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		ED8E31DB2A61A84000F70EE9 /* FruitsContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				ED8E31DC2A61A84000F70EE9 /* FruitsContainer.xcdatamodel */,
+			);
+			currentVersion = ED8E31DC2A61A84000F70EE9 /* FruitsContainer.xcdatamodel */;
+			path = FruitsContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = ED71155929F142DB00F93A27 /* Project object */;
 }
