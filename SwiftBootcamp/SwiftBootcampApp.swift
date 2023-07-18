@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftBootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            EscapingBootCamp()
+            CodableBootCamp()
+            
         }
     }
 }
