@@ -70,6 +70,7 @@
 		EDB6FADB2A6841C30091B9D2 /* DownloadWithEscapingBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB6FADA2A6841C30091B9D2 /* DownloadWithEscapingBootCamp.swift */; };
 		EDB9EF5E29FBFCC8006891DF /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB9EF5D29FBFCC8006891DF /* FrameBootcamp.swift */; };
 		EDB9EF6029FC0268006891DF /* BackgroundandOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB9EF5F29FC0268006891DF /* BackgroundandOverlayBootcamp.swift */; };
+		EDBD28F72A6C2884006DBE29 /* TimerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBD28F62A6C2884006DBE29 /* TimerBootCamp.swift */; };
 		EDC1115629F67E9100BC9923 /* GradientsBoorcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDC1115529F67E9100BC9923 /* GradientsBoorcamp.swift */; };
 		EDC32E2B2A1E09D100636BFC /* PickerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDC32E2A2A1E09D100636BFC /* PickerBootCamp.swift */; };
 		EDC32E2D2A1E156800636BFC /* ColorPickerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDC32E2C2A1E156800636BFC /* ColorPickerBootCamp.swift */; };
@@ -166,6 +167,7 @@
 		EDB6FADA2A6841C30091B9D2 /* DownloadWithEscapingBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootCamp.swift; sourceTree = "<group>"; };
 		EDB9EF5D29FBFCC8006891DF /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		EDB9EF5F29FC0268006891DF /* BackgroundandOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundandOverlayBootcamp.swift; sourceTree = "<group>"; };
+		EDBD28F62A6C2884006DBE29 /* TimerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootCamp.swift; sourceTree = "<group>"; };
 		EDC1115529F67E9100BC9923 /* GradientsBoorcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBoorcamp.swift; sourceTree = "<group>"; };
 		EDC32E2A2A1E09D100636BFC /* PickerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootCamp.swift; sourceTree = "<group>"; };
 		EDC32E2C2A1E156800636BFC /* ColorPickerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootCamp.swift; sourceTree = "<group>"; };
@@ -329,6 +331,7 @@
 				ED3976792A66A7E10044B251 /* CodableBootCamp.swift */,
 				EDB6FADA2A6841C30091B9D2 /* DownloadWithEscapingBootCamp.swift */,
 				EDE77CAE2A6ACBA500DA00DA /* DownloadJsonWithCombineBootCamp.swift */,
+				EDBD28F62A6C2884006DBE29 /* TimerBootCamp.swift */,
 				ED8E31DE2A61A86400F70EE9 /* CoreData */,
 				ED018DF32A5442AF0070A487 /* Sounds */,
 				ED61E3A62A30A4FB005ACFC2 /* OnboardingViews */,
@@ -482,6 +485,7 @@
 				EDD78ED72A2BB46C000F98F3 /* EnviromentObjectBootCamp.swift in Sources */,
 				EDD72E132A190E3500F93DDB /* ConfirmationDialogBootCamp.swift in Sources */,
 				ED9731242A1B8C1700DC5053 /* TextEditorBootCamp.swift in Sources */,
+				EDBD28F72A6C2884006DBE29 /* TimerBootCamp.swift in Sources */,
 				EDFA87282A094D9A00CC245C /* ExtractSubViewsBootcamp.swift in Sources */,
 				EDE178D82A406706004C13D4 /* AnimationUpdatedBootCamp.swift in Sources */,
 				ED018DF92A5444A00070A487 /* HapticsBootCamp.swift in Sources */,
