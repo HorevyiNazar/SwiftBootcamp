@@ -36,6 +36,7 @@
 		ED61E3AC2A30CDB7005ACFC2 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED61E3AB2A30CDB7005ACFC2 /* ProfileView.swift */; };
 		ED6BEB702A126B070013249C /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED6BEB6F2A126B070013249C /* TransitionBootcamp.swift */; };
 		ED6BEB722A12707D0013249C /* SheetsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED6BEB712A12707D0013249C /* SheetsBootCamp.swift */; };
+		ED6C6DAC2A6D4E0A00C59B1F /* SubscriberBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED6C6DAB2A6D4E0A00C59B1F /* SubscriberBootCamp.swift */; };
 		ED71156529F142DB00F93A27 /* SwiftBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED71156429F142DB00F93A27 /* SwiftBootcampApp.swift */; };
 		ED71156729F142DB00F93A27 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED71156629F142DB00F93A27 /* ContentView.swift */; };
 		ED71156929F142DC00F93A27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED71156829F142DC00F93A27 /* Assets.xcassets */; };
@@ -132,6 +133,7 @@
 		ED61E3AB2A30CDB7005ACFC2 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		ED6BEB6F2A126B070013249C /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 		ED6BEB712A12707D0013249C /* SheetsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootCamp.swift; sourceTree = "<group>"; };
+		ED6C6DAB2A6D4E0A00C59B1F /* SubscriberBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootCamp.swift; sourceTree = "<group>"; };
 		ED71156129F142DB00F93A27 /* SwiftBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED71156429F142DB00F93A27 /* SwiftBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftBootcampApp.swift; sourceTree = "<group>"; };
 		ED71156629F142DB00F93A27 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -332,6 +334,7 @@
 				EDB6FADA2A6841C30091B9D2 /* DownloadWithEscapingBootCamp.swift */,
 				EDE77CAE2A6ACBA500DA00DA /* DownloadJsonWithCombineBootCamp.swift */,
 				EDBD28F62A6C2884006DBE29 /* TimerBootCamp.swift */,
+				ED6C6DAB2A6D4E0A00C59B1F /* SubscriberBootCamp.swift */,
 				ED8E31DE2A61A86400F70EE9 /* CoreData */,
 				ED018DF32A5442AF0070A487 /* Sounds */,
 				ED61E3A62A30A4FB005ACFC2 /* OnboardingViews */,
@@ -482,6 +485,7 @@
 				ED34B7D02A1F852D00630034 /* StepperBootCamp.swift in Sources */,
 				ED37871A2A509DF500A9BD82 /* MultipleSheetsBootCamp.swift in Sources */,
 				ED9113082A20C82C00CD66A4 /* TabViewBootCamp.swift in Sources */,
+				ED6C6DAC2A6D4E0A00C59B1F /* SubscriberBootCamp.swift in Sources */,
 				EDD78ED72A2BB46C000F98F3 /* EnviromentObjectBootCamp.swift in Sources */,
 				EDD72E132A190E3500F93DDB /* ConfirmationDialogBootCamp.swift in Sources */,
 				ED9731242A1B8C1700DC5053 /* TextEditorBootCamp.swift in Sources */,
